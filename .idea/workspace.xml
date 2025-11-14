@@ -63,7 +63,7 @@
     "Shell Script.install-sh (python 3.10.18).executor": "Run",
     "git-widget-placeholder": "#2 on accelerate-with-copilot"
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="6_noiembrie.py" type="ShConfigurationType">
       <option name="SCRIPT_TEXT" value="" />
