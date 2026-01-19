@@ -43,7 +43,7 @@ plt.show()
 # B. Boxplot pe Subcategorii
 #
 
-[Image of interpreting a box plot]
+[Image, of, interpreting, a, box, plot]
 
 plt.figure(figsize=(12, 8))
 sns.boxplot(data=df_paving, x='subcategory', y='cost_per_m2')
@@ -54,7 +54,7 @@ plt.show()
 # C. Scatter Plot + Regresie (Cost vs Rating)
 #
 
-[Image of positive vs negative correlation scatter plot]
+[Image, of, positive, vs, negative, correlation, scatter, plot]
 
 plt.figure(figsize=(10, 6))
 sns.regplot(data=df_paving, x='cost_per_m2', y='quality_rating',
